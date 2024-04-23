@@ -3,6 +3,7 @@
 test.py
 
 Estimativa_pesosA/*
+Estimativa_pesos/data/*
 BIGRU/*
 D2NET/UNet/dataset/*
 .venv
