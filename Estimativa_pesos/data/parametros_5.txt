@@ -1,0 +1,6 @@
+layers_dens: ['tw', 'ts1', 'ts2', 'tc', 'tm']
+densidade: [1030, 2700, 2150, 3000, 3800]
+z_range: (0.0, 40000.0)
+y_range: (-1000000.0, 1000000.0)
+nx_prism_columns: 200
+dx: 502.51256281407035
